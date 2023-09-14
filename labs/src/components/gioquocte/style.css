@@ -1,0 +1,14 @@
+
+
+.background{
+    background-color: darkgray;
+    margin: 10px;
+    width: 200px;
+    
+}
+.city-name{
+    color:chocolate;
+}
+.city-clock{
+    color:blue;
+}
